@@ -1,13 +1,4 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
 <footer class="footer footer-alt">
-     <?php echo date('Y'); ?> &copy; Hospital Management System. Developed By Meerasree</a>
+    <?php echo date('Y'); ?> &copy; Hospital Management Information System. Developed By <a href="">Meera</a></a>
+
 </footer>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->

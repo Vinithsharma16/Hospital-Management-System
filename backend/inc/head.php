@@ -1,12 +1,6 @@
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
-
 <head>
     <meta charset="utf-8" />
-    <title>Hospital Management System -A Super Responsive Information System</title>
+    <title>Hospital Management Information System -A Super Responsive Information System in Code Camp BD</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
     <meta content="MartDevelopers" name="author" />
@@ -23,11 +17,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
     <link href="assets/css/app.min.css" rel="stylesheet" type="text/css" />
     <!-- Loading button css -->
     <link href="assets/libs/ladda/ladda-themeless.min.css" rel="stylesheet" type="text/css" />
-    <!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
+
     <!-- Footable css -->
     <link href="assets/libs/footable/footable.core.min.css" rel="stylesheet" type="text/css" />
 
@@ -58,8 +48,3 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
     <?php } ?>
 
 </head>
-<!-- Author By: MH RONY
-Author Website: https://developerrony.com
-Github Link: https://github.com/dev-mhrony
-Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
--->
